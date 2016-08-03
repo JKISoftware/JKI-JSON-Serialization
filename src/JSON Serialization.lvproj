@@ -52,6 +52,11 @@
 				<Item Name="Test Serialize Variants.vi" Type="VI" URL="../../test/Test Serialize Variants.vi"/>
 				<Item Name="Test Serialize.vi" Type="VI" URL="../../test/Test Serialize.vi"/>
 			</Item>
+			<Item Name="RoundTrip" Type="Folder">
+				<Item Name="Test RoundTrip ComplexClusters.vi" Type="VI" URL="../../test/Test RoundTrip ComplexClusters.vi"/>
+				<Item Name="Test RoundTrip Enumeration.vi" Type="VI" URL="../../test/Test RoundTrip Enumeration.vi"/>
+				<Item Name="Test RoundTrip Serialization.vi" Type="VI" URL="../../test/Test RoundTrip Serialization.vi"/>
+			</Item>
 			<Item Name="Test JSON Serialization.vi" Type="VI" URL="../../test/Test JSON Serialization.vi"/>
 			<Item Name="Performance Test.vi" Type="VI" URL="../../test/Performance Test.vi"/>
 		</Item>

@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-03 07:05:33" Creator="Tomi Maila" Comments="" ID="54e4434942db969d1b9097b3b16c4794">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-03 14:04:00" Creator="Tomi Maila" Comments="" ID="ff3976e5dbd7249e7e38fcbad958facc">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_json_serialization</Package_File_Name>
-    <Library_Version>1.0.0.17</Library_Version>
+    <Library_Version>1.0.1.18</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -39,7 +39,7 @@
       <Copyright/>
       <Packager/>
       <URL>http://jki.net/tools</URL>
-      <Release_Notes>Relink to latest JKI Unicode library with namespace change</Release_Notes>
+      <Release_Notes>Added support for flattening enums to strings and back to enums</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -259,7 +259,7 @@
         <Path>Deserializer\JSON Deserializer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BEC8B185EB647AC85526D15ADB36C0A0</GUID>
+      <GUID>BC93AB6A408A2F8142F12B0335C0D1CB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -448,7 +448,7 @@
         <Path>Serializer\JSON Serializer\Write Indent String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EA50475F35B12C11B997DCAAB781B568</GUID>
+      <GUID>8360D141AC9375DF05196283B2F73D1F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -497,7 +497,7 @@
         <Path>Deserializer\JSON Deserializer\Unflatten From String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>46383E73C958AAB5891CF7A8B2CCEC37</GUID>
+      <GUID>C29218256C2E5AC6914B20EF902379E3</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

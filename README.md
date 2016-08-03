@@ -1,3 +1,4 @@
+![JKI JSON Serialization](https://github.com/JKISoftware/JKI-JSON-Serialization/raw/master/img/json.png)
 # JKI JSON Serialization
 
 JKI JSON Serialization is a library for flattening LabVIEW data to JSON strings and for unflattening JSON strings back to LabVIEW data.

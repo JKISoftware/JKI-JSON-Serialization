@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-03 14:04:00" Creator="Tomi Maila" Comments="" ID="ff3976e5dbd7249e7e38fcbad958facc">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-03 15:25:23" Creator="Tomi Maila" Comments="" ID="2ea36901da18336f95ec7d841efb0d08">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_json_serialization</Package_File_Name>
-    <Library_Version>1.0.1.18</Library_Version>
+    <Library_Version>1.0.1.19</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -39,7 +39,7 @@
       <Copyright/>
       <Packager/>
       <URL>http://jki.net/tools</URL>
-      <Release_Notes>Added support for flattening enums to strings and back to enums</Release_Notes>
+      <Release_Notes>Added support for flattening enums to strings and back to enums - hotfix for missing quotes</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -259,7 +259,7 @@
         <Path>Deserializer\JSON Deserializer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BC93AB6A408A2F8142F12B0335C0D1CB</GUID>
+      <GUID>D3E8274DBB51C47CB07A7C1CF1D3C65A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -448,7 +448,7 @@
         <Path>Serializer\JSON Serializer\Write Indent String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8360D141AC9375DF05196283B2F73D1F</GUID>
+      <GUID>5E732FC9E95C636F07C88D59BC7CB0C0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -497,7 +497,7 @@
         <Path>Deserializer\JSON Deserializer\Unflatten From String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C29218256C2E5AC6914B20EF902379E3</GUID>
+      <GUID>A2A13CE97FECF1DB4088016BA1FA90B0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

@@ -26,6 +26,7 @@
 				<Item Name="Test Deserialize Variants.vi" Type="VI" URL="../../test/Test Deserialize Variants.vi"/>
 				<Item Name="Test Deserialize Numbers.vi" Type="VI" URL="../../test/Test Deserialize Numbers.vi"/>
 				<Item Name="Test Deserialize Strings.vi" Type="VI" URL="../../test/Test Deserialize Strings.vi"/>
+				<Item Name="Test Deserialize Enum.vi" Type="VI" URL="../../test/Test Deserialize Enum.vi"/>
 				<Item Name="Test Deserialize Timestamps.vi" Type="VI" URL="../../test/Test Deserialize Timestamps.vi"/>
 				<Item Name="Test Deserialize.vi" Type="VI" URL="../../test/Test Deserialize.vi"/>
 			</Item>
@@ -45,6 +46,7 @@
 				<Item Name="Test Serialize Void.vi" Type="VI" URL="../../test/Test Serialize Void.vi"/>
 				<Item Name="Test Serialize Boolean.vi" Type="VI" URL="../../test/Test Serialize Boolean.vi"/>
 				<Item Name="Test Serialize Strings.vi" Type="VI" URL="../../test/Test Serialize Strings.vi"/>
+				<Item Name="Test Serialize Enum.vi" Type="VI" URL="../../test/Test Serialize Enum.vi"/>
 				<Item Name="Test Serialize Variants.vi" Type="VI" URL="../../test/Test Serialize Variants.vi"/>
 				<Item Name="Test Serialize.vi" Type="VI" URL="../../test/Test Serialize.vi"/>
 			</Item>

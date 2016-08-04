@@ -2,7 +2,7 @@
 # JKI JSON Serialization
 
 JKI JSON Serialization is a library for flattening LabVIEW data to JSON strings and for unflattening JSON strings back to LabVIEW data.
-This library extends LabVIEW�s native JSON serialization with powerful features such as ability to unflatten JSON strings directly
+This library extends LabVIEW's native JSON serialization with powerful features such as ability to unflatten JSON strings directly
 to LabVIEW variants, a feature that is useful when building reusable software components. Furthermore our JSON serialization
 library allows unflattening the same JSON string into different LabVIEW data structures allowing for example unflattening
 of a fixed length JSON array into a LabVIEW cluster.

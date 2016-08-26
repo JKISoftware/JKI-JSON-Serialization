@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-26 07:36:53" Creator="Tomi Maila" Comments="" ID="da7cb472bd125a2bf1ac0c5fe679ba13">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-26 09:27:00" Creator="Tomi Maila" Comments="" ID="6440dcf3a71b818f390ffa1d2aebc2a0">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_json_serialization</Package_File_Name>
-    <Library_Version>1.0.3.21</Library_Version>
+    <Library_Version>1.0.4.21</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -259,7 +259,7 @@
         <Path>Deserializer\JSON Deserializer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0E88989861D08361059245EC172C2639</GUID>
+      <GUID>59F1512311FC5956F753CAA3F196621B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -448,7 +448,7 @@
         <Path>Serializer\JSON Serializer\Write Indent String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>66CF43716BF453C7C50805B85E68C7DA</GUID>
+      <GUID>2D493263D7026B302C854018D87B486F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -497,7 +497,7 @@
         <Path>Deserializer\JSON Deserializer\Unflatten From String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F4C9601B342920259D0EEEE49C5D9EEC</GUID>
+      <GUID>5ADBBC76FADB8501D8906B987153B65F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

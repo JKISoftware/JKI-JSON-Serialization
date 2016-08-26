@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-26 07:34:02" Creator="Tomi Maila" Comments="" ID="a0947111ec55f2167deba6eb0c08bcbc">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-26 07:36:53" Creator="Tomi Maila" Comments="" ID="da7cb472bd125a2bf1ac0c5fe679ba13">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_json_serialization</Package_File_Name>
-    <Library_Version>1.0.3.20</Library_Version>
+    <Library_Version>1.0.3.21</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -39,7 +39,7 @@
       <Copyright/>
       <Packager/>
       <URL>http://jki.net/tools</URL>
-      <Release_Notes>Fixed an issue where empty object inside an object wasn't deserialized correctly</Release_Notes>
+      <Release_Notes>Added support for path serialization and deserialization</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

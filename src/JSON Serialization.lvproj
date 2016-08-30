@@ -168,6 +168,9 @@
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 			</Item>
+			<Item Name="Variant Constant (empty object).vi" Type="VI" URL="../Serializer/JSON Serializer/Variant Constant (empty object).vi"/>
+			<Item Name="Variant Constant (null).vi" Type="VI" URL="../Serializer/JSON Serializer/Variant Constant (null).vi"/>
+			<Item Name="Variant Constant (array).vi" Type="VI" URL="../Serializer/JSON Serializer/Variant Constant (array).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

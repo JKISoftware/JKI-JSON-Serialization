@@ -18,6 +18,5 @@
 	<Item Name="JSON Deserializer.lvclass" Type="LVClass" URL="../Deserializer/JSON Deserializer/JSON Deserializer.lvclass"/>
 	<Item Name="JSON Serializer.lvclass" Type="LVClass" URL="../Serializer/JSON Serializer/JSON Serializer.lvclass"/>
 	<Item Name="Unflatten From JSON String.vi" Type="VI" URL="../Library/Unflatten From JSON String.vi"/>
-	<Item Name="Unflatten From JSON String as Variant Attributes.vi" Type="VI" URL="../Library/Unflatten From JSON String as Variant Attributes.vi"/>
 	<Item Name="Flatten To JSON String.vi" Type="VI" URL="../Library/Flatten To JSON String.vi"/>
 </Library>

@@ -30,6 +30,8 @@
 				<Item Name="Test Deserialize Strings.vi" Type="VI" URL="../../test/Test Deserialize Strings.vi"/>
 				<Item Name="Test Deserialize Enum.vi" Type="VI" URL="../../test/Test Deserialize Enum.vi"/>
 				<Item Name="Test Deserialize Timestamps.vi" Type="VI" URL="../../test/Test Deserialize Timestamps.vi"/>
+				<Item Name="Test Deserialize Null.vi" Type="VI" URL="../../test/Test Deserialize Null.vi"/>
+				<Item Name="Test Deserialize Null To Defaults.vi" Type="VI" URL="../../test/Test Deserialize Null To Defaults.vi"/>
 				<Item Name="Test Deserialize.vi" Type="VI" URL="../../test/Test Deserialize.vi"/>
 			</Item>
 			<Item Name="Serialization" Type="Folder">

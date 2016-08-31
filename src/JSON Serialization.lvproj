@@ -30,6 +30,8 @@
 				<Item Name="Test Deserialize Strings.vi" Type="VI" URL="../../test/Test Deserialize Strings.vi"/>
 				<Item Name="Test Deserialize Enum.vi" Type="VI" URL="../../test/Test Deserialize Enum.vi"/>
 				<Item Name="Test Deserialize Timestamps.vi" Type="VI" URL="../../test/Test Deserialize Timestamps.vi"/>
+				<Item Name="Test Deserialize Null.vi" Type="VI" URL="../../test/Test Deserialize Null.vi"/>
+				<Item Name="Test Deserialize Null To Defaults.vi" Type="VI" URL="../../test/Test Deserialize Null To Defaults.vi"/>
 				<Item Name="Test Deserialize.vi" Type="VI" URL="../../test/Test Deserialize.vi"/>
 			</Item>
 			<Item Name="Serialization" Type="Folder">
@@ -51,11 +53,13 @@
 				<Item Name="Test Serialize Enum.vi" Type="VI" URL="../../test/Test Serialize Enum.vi"/>
 				<Item Name="Test Serialize Variants.vi" Type="VI" URL="../../test/Test Serialize Variants.vi"/>
 				<Item Name="Test Serialize.vi" Type="VI" URL="../../test/Test Serialize.vi"/>
+				<Item Name="Test Serialize Paths.vi" Type="VI" URL="../../test/Test Serialize Paths.vi"/>
 			</Item>
 			<Item Name="RoundTrip" Type="Folder">
 				<Item Name="Test RoundTrip ComplexClusters.vi" Type="VI" URL="../../test/Test RoundTrip ComplexClusters.vi"/>
 				<Item Name="Test RoundTrip Enumeration.vi" Type="VI" URL="../../test/Test RoundTrip Enumeration.vi"/>
 				<Item Name="Test RoundTrip Serialization.vi" Type="VI" URL="../../test/Test RoundTrip Serialization.vi"/>
+				<Item Name="Test RoundTrip Path.vi" Type="VI" URL="../../test/Test RoundTrip Path.vi"/>
 			</Item>
 			<Item Name="Test JSON Serialization.vi" Type="VI" URL="../../test/Test JSON Serialization.vi"/>
 			<Item Name="Performance Test.vi" Type="VI" URL="../../test/Performance Test.vi"/>

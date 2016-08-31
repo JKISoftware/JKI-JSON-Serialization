@@ -1,24 +1,25 @@
-# JKI JSON Serialization
+![JKI JSON](https://github.com/JKISoftware/JKI-JSON-Serialization/raw/master/img/json.png)
+# JKI JSON
 
-JKI JSON Serialization is a library for flattening LabVIEW data to JSON strings and for unflattening JSON strings back to LabVIEW data.
-This library extends LabVIEW�s native JSON serialization with powerful features such as ability to unflatten JSON strings directly
-to LabVIEW variants, a feature that is useful when building reusable software components. Furthermore our JSON serialization
+JKI JSON is a library for flattening LabVIEW data to JSON strings and for unflattening JSON strings back to LabVIEW data.
+This library extends LabVIEW's native JSON serialization with powerful features such as ability to unflatten JSON strings directly
+to LabVIEW variants, a feature that is useful when building reusable software components. Furthermore JKI JSON serialization
 library allows unflattening the same JSON string into different LabVIEW data structures allowing for example unflattening
 of a fixed length JSON array into a LabVIEW cluster.
 
 ## Installation
 
-You can download and install JKI JSON Serialization with VI Package Manager.
+You can download and install JKI JSON with VI Package Manager.
 
 [Get JKI JSON Serialization](http://vipm.jki.net/#!/package/jki_lib_json_serialization)
 
 ## Usage
-JKI JSON Serialization is a LabVIEW toolkit providing a library of VIs for flattening LabVIEW data type
+JKI JSON is a LabVIEW toolkit providing a library of VIs for flattening LabVIEW data type
 into JSON strings and unflattening JSON strings into LabVIEW data types.
 
 ### Palette
-To use unit JKI JSON Serialization, you need to drop the corresponding JKI JSON Serialization toolkit
-VIs to the block diagrams. The JKI JSON Serialization toolkit VIs are located under the JKI Tools functions
+To use unit JKI JSON, you need to drop the corresponding JKI JSON toolkit
+VIs to the block diagrams. The JKI JSON toolkit VIs are located under the JKI Tools functions
 palette menu.
 
 ![Functions palette](https://github.com/JKISoftware/JKI-JSON-Serialization/raw/master/img/JSON-Palette.png "Functions palette")
@@ -77,13 +78,13 @@ _Clusters_: JSON clusters and arrays can be unflattened to LabVIEW clusters.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-To contribute to JKI JSON Serialization, you will need 32-bit LabVIEW 2013 f2 professional development environment.
+To contribute to JKI JSON, you will need 32-bit LabVIEW 2013 f2 professional development environment.
 
 ## Credits
 
-JKI JSON Serialization is an open source project maintained by [JKI](http://jki.net).
+JKI JSON is an open source project maintained by [JKI](http://jki.net).
 
 ## License
 
-JKI JSON Serialization is distributed under the open source three clause BSD license providing everyone right to use and distribute both souce code
-and compiled versions of JKI JSON Serialization. See LICENSE.md file for details.
+JKI JSON is distributed under the open source three clause BSD license providing everyone right to use and distribute both souce code
+and compiled versions of JKI JSON. See LICENSE.md file for details.

@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-09-01 09:39:39" Creator="Tomi Maila" Comments="" ID="d2f22cb0c6dcb67e1337dcd93dfcebaa">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-09-01 09:41:24" Creator="Tomi Maila" Comments="" ID="03114c45c30a6080155a2524d1618ea0">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_json_serialization</Package_File_Name>
-    <Library_Version>1.1.2.27</Library_Version>
+    <Library_Version>1.1.2.28</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>

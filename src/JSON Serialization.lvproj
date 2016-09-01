@@ -23,6 +23,7 @@
 					<Item Name="Test Deserialize Signed Integers.vi" Type="VI" URL="../../test/Test Deserialize Signed Integers.vi"/>
 				</Item>
 				<Item Name="Test Deserialize Arrays.vi" Type="VI" URL="../../test/Test Deserialize Arrays.vi"/>
+				<Item Name="Test Deserialize Variable Sized Arrays.vi" Type="VI" URL="../../test/Test Deserialize Variable Sized Arrays.vi"/>
 				<Item Name="Test Deserialize Boolean.vi" Type="VI" URL="../../test/Test Deserialize Boolean.vi"/>
 				<Item Name="Test Deserialize Clusters.vi" Type="VI" URL="../../test/Test Deserialize Clusters.vi"/>
 				<Item Name="Test Deserialize Variants.vi" Type="VI" URL="../../test/Test Deserialize Variants.vi"/>

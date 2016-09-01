@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-08-31 22:18:55" Creator="Tomi Maila" Comments="" ID="0f06ebea4f1b0e57108d5741cc242942">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-09-01 08:20:58" Creator="Tomi Maila" Comments="" ID="931a87bca090e6d0fa2390a5955ff315">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_json_serialization</Package_File_Name>
-    <Library_Version>1.1.0.26</Library_Version>
+    <Library_Version>1.1.1.26</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -39,7 +39,7 @@
       <Copyright/>
       <Packager>Tomi Maila</Packager>
       <URL>http://jki.net/tools</URL>
-      <Release_Notes>Change how NaN is treated. Disabled numeric extensions by default.</Release_Notes>
+      <Release_Notes>Changed how null is deserialized.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -259,7 +259,7 @@
         <Path>Deserializer\JSON Deserializer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DB4D4BF73E2A9B536F7921D1581E8F79</GUID>
+      <GUID>242DEE5EAA5CC7A14440C9A888CA300D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -448,7 +448,7 @@
         <Path>Serializer\JSON Serializer\Write Indent String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EC9FA2A7EA7028831E5EB81387EF0385</GUID>
+      <GUID>15BB13678810C41303AB76A3DD836C96</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -525,7 +525,7 @@
         <Path>Deserializer\JSON Deserializer\Write Nulls as Defaults.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ED432228B6048E77B49AD38F6B7717D5</GUID>
+      <GUID>381261A9F325AE73058247410F0600EE</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

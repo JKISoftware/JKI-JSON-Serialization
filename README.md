@@ -68,7 +68,7 @@ _Arrays_: JSON arrays and clusters can be unflattened to LabVIEW arrays.
 
 _Clusters_: JSON clusters and arrays can be unflattened to LabVIEW clusters.
 
-
+**Nulls as Defaults** when true will replace null values with default values as defined using the Type and Defaults input. When false will unflatten null values to the values for each data type that best correspond to JSON null values.
 
 ## Contributing
 

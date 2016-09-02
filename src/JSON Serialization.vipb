@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-09-02 10:04:58" Creator="Tomi Maila" Comments="" ID="ccb2a5e643a11884215754b9b5971f98">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-09-02 11:01:56" Creator="Tomi Maila" Comments="" ID="865e147c0026e24780c6a3a6b27f46e6">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_json_serialization</Package_File_Name>
-    <Library_Version>1.1.4.30</Library_Version>
+    <Library_Version>1.1.5.31</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -39,7 +39,7 @@
       <Copyright/>
       <Packager>Tomi Maila</Packager>
       <URL>http://jki.net/tools</URL>
-      <Release_Notes>Added Adapt to Type top level VI to the library.</Release_Notes>
+      <Release_Notes>Added config file example</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -100,6 +100,18 @@
       <Destination_Overrides>
         <Path>.</Path>
         <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples/Config file</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples</Path>
+        <Destination>1</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
@@ -287,7 +299,7 @@
         <Path>Constants and Comparison</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2E7C9F3D20BDD3C7B461C4D90954E576</GUID>
+      <GUID>41C0B52D0C5274F2D0D698C282CD9A0D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -476,7 +488,7 @@
         <Path>Serializer\JSON Serializer\Write Indent String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FA6C23F03E2461D48B7C97EDFC3292D0</GUID>
+      <GUID>0FE2B225311A137F58CDAC6BBE768F2B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -553,7 +565,7 @@
         <Path>Deserializer\JSON Deserializer\Write Nulls as Defaults.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>52F559268B5499B4D385F81966FA1E3F</GUID>
+      <GUID>422B17EEFF88185FE40DCAEE3AB7A1F1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -658,7 +670,7 @@
         <Path>Library\Is Empty Array.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FB3B4B17639C9B04475937398AE8A19B</GUID>
+      <GUID>14294E6443E7155F340FC7B5F9520177</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

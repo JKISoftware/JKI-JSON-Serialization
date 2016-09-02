@@ -66,6 +66,12 @@
 			<Item Name="Test JSON Serialization.vi" Type="VI" URL="../../test/Test JSON Serialization.vi"/>
 			<Item Name="Performance Test.vi" Type="VI" URL="../../test/Performance Test.vi"/>
 		</Item>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Config File" Type="Folder">
+				<Item Name="JSON Config File.lvclass" Type="LVClass" URL="../Examples/Config file/Classes/JSON Config File/JSON Config File.lvclass"/>
+				<Item Name="Write and Read Configuration File.vi" Type="VI" URL="../Examples/Config file/Write and Read Configuration File.vi"/>
+			</Item>
+		</Item>
 		<Item Name="JKI JSON Serialization.lvlib" Type="Library" URL="../JKI JSON Serialization.lvlib"/>
 		<Item Name="JKI Unicode.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI.lib/Unicode/JKI Unicode.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -172,6 +178,7 @@
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
+				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

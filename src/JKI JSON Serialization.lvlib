@@ -25,4 +25,5 @@
 	<Item Name="Is Empty Array.vi" Type="VI" URL="../Library/Is Empty Array.vi"/>
 	<Item Name="Unflatten From JSON String.vi" Type="VI" URL="../Library/Unflatten From JSON String.vi"/>
 	<Item Name="Flatten To JSON String.vi" Type="VI" URL="../Library/Flatten To JSON String.vi"/>
+	<Item Name="Adapt To Type.vi" Type="VI" URL="../Library/Adapt To Type.vi"/>
 </Library>

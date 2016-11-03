@@ -13,6 +13,7 @@
 		<Item Name="Lexer.lvclass" Type="LVClass" URL="../Deserializer/Lexer/Lexer.lvclass"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Waveform Cluster.ctl" Type="VI" URL="../Library/Waveform Cluster.ctl"/>
 		<Item Name="Timestamp Options.ctl" Type="VI" URL="../Library/Timestamp Options.ctl"/>
 	</Item>
 	<Item Name="JSON Deserializer.lvclass" Type="LVClass" URL="../Deserializer/JSON Deserializer/JSON Deserializer.lvclass"/>

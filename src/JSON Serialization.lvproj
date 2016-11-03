@@ -54,6 +54,7 @@
 				<Item Name="Test Serialize Strings.vi" Type="VI" URL="../../test/Test Serialize Strings.vi"/>
 				<Item Name="Test Serialize Enum.vi" Type="VI" URL="../../test/Test Serialize Enum.vi"/>
 				<Item Name="Test Serialize Variants.vi" Type="VI" URL="../../test/Test Serialize Variants.vi"/>
+				<Item Name="Test Serialize Waveforms.vi" Type="VI" URL="../../test/Test Serialize Waveforms.vi"/>
 				<Item Name="Test Serialize.vi" Type="VI" URL="../../test/Test Serialize.vi"/>
 				<Item Name="Test Serialize Paths.vi" Type="VI" URL="../../test/Test Serialize Paths.vi"/>
 			</Item>

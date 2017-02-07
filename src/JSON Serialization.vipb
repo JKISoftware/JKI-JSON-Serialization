@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2016-11-08 14:26:59" Creator="Tomi Maila" Comments="" ID="323e82b53bcddb24f3484c94d55eb36c">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-19 12:30:21" Modified_Date="2017-02-06 17:12:50" Creator="Tomi Maila" Comments="" ID="685b347db9fad96d72d922cac525e439">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_json_serialization</Package_File_Name>
-    <Library_Version>1.1.9.36</Library_Version>
+    <Library_Version>1.1.10.38</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -40,7 +40,7 @@
       <Copyright/>
       <Packager>Tomi Maila</Packager>
       <URL>http://jki.net/tools</URL>
-      <Release_Notes>Rebuild to resolve an issue where a VI is broken due to a problem in compiled code.</Release_Notes>
+      <Release_Notes>Made Adapt To Type dynamic dispatch to allow decedent classes to override</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -300,7 +300,7 @@
         <Path>Constants and Comparison</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9D0F34AE17920E0943230DB2F254A512</GUID>
+      <GUID>645A82AAB50C1ABEDF8BDDCAE11C84DA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -489,7 +489,7 @@
         <Path>Serializer\JSON Serializer\Write Indent String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CD3E23D2B0A126790E2592029C19E7EC</GUID>
+      <GUID>EDEBF3C6075A36B551BC5CB184BE6031</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -566,7 +566,7 @@
         <Path>Deserializer\JSON Deserializer\Write Nulls as Defaults.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CBA0C071AD0FC83D2090359D1957F7D4</GUID>
+      <GUID>F2641314125C3078DF600B68AE942996</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -671,7 +671,7 @@
         <Path>Library\Is Empty Array.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>591D80345ECB52A54A7F093F9F610E77</GUID>
+      <GUID>2FD8865506A408E104A18C9021EB5E9C</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

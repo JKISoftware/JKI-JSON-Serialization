@@ -64,6 +64,12 @@
 				<Item Name="Test RoundTrip Serialization.vi" Type="VI" URL="../../test/Test RoundTrip Serialization.vi"/>
 				<Item Name="Test RoundTrip Path.vi" Type="VI" URL="../../test/Test RoundTrip Path.vi"/>
 			</Item>
+			<Item Name="GitHub Issues" Type="Folder">
+				<Item Name="Test GitHub Issues.vi" Type="VI" URL="../../test/Test GitHub Issues.vi"/>
+				<Item Name="Test GitHub Issue 28 - Deserialize Array of Cluster of Arrays Wraps Elements in Variants.vi" Type="VI" URL="../../test/Test GitHub Issue 28 - Deserialize Array of Cluster of Arrays Wraps Elements in Variants.vi"/>
+				<Item Name="Test GitHub Issue 29 - Deserialize Array of Cluster of Cluster Wraps Elements in Variants.vi" Type="VI" URL="../../test/Test GitHub Issue 29 - Deserialize Array of Cluster of Cluster Wraps Elements in Variants.vi"/>
+				<Item Name="Test GitHub Issue 30 - Deserialize Array of Cluster of Multi-Dimensional Array Wraps Inner Elements in Variants.vi" Type="VI" URL="../../test/Test GitHub Issue 30 - Deserialize Array of Cluster of Multi-Dimensional Array Wraps Inner Elements in Variants.vi"/>
+			</Item>
 			<Item Name="Test JSON Serialization.vi" Type="VI" URL="../../test/Test JSON Serialization.vi"/>
 			<Item Name="Performance Test.vi" Type="VI" URL="../../test/Performance Test.vi"/>
 		</Item>

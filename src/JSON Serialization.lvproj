@@ -69,6 +69,7 @@
 				<Item Name="Test GitHub Issue 28 - Deserialize Array of Cluster of Arrays Wraps Elements in Variants.vi" Type="VI" URL="../../test/Test GitHub Issue 28 - Deserialize Array of Cluster of Arrays Wraps Elements in Variants.vi"/>
 				<Item Name="Test GitHub Issue 29 - Deserialize Array of Cluster of Cluster Wraps Elements in Variants.vi" Type="VI" URL="../../test/Test GitHub Issue 29 - Deserialize Array of Cluster of Cluster Wraps Elements in Variants.vi"/>
 				<Item Name="Test GitHub Issue 30 - Deserialize Array of Cluster of Multi-Dimensional Array Wraps Inner Elements in Variants.vi" Type="VI" URL="../../test/Test GitHub Issue 30 - Deserialize Array of Cluster of Multi-Dimensional Array Wraps Inner Elements in Variants.vi"/>
+				<Item Name="Test GitHub Issue 31- Incorrect indentation when treating cluster as an ordered array.vi" Type="VI" URL="../../test/Test GitHub Issue 31- Incorrect indentation when treating cluster as an ordered array.vi"/>
 			</Item>
 			<Item Name="Test JSON Serialization.vi" Type="VI" URL="../../test/Test JSON Serialization.vi"/>
 			<Item Name="Performance Test.vi" Type="VI" URL="../../test/Performance Test.vi"/>

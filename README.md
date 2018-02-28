@@ -1,3 +1,5 @@
+*Do you have JKI JSON questions, ideas, or challenges you'd like discuss? Join the conversation happening in the [JKI JSON Community Discussion Forums](https://forums.jki.net/forum/67-jki-json/).*
+
 ![JKI JSON](https://github.com/JKISoftware/JKI-JSON-Serialization/raw/master/img/json.png)
 # JKI JSON
 

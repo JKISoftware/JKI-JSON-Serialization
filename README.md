@@ -14,7 +14,7 @@ of a fixed length JSON array into a LabVIEW cluster.
 
 You can download and install JKI JSON with VI Package Manager.
 
-[Get JKI JSON Serialization](http://vipm.jki.net/#!/package/jki_lib_json_serialization)
+[Get JKI JSON Serialization](https://www.vipm.io/package/jki_lib_json_serialization/)
 
 ## Usage
 JKI JSON is a LabVIEW toolkit providing a library of VIs for flattening LabVIEW data type

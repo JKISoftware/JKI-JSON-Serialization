@@ -1,3 +1,5 @@
+[![Image](https://www.vipm.io/package/jki_lib_json_serialization/badge.svg?metric=installs)](https://www.vipm.io/package/jki_lib_json_serialization/) [![Image](https://www.vipm.io/package/jki_lib_json_serialization/badge.svg?metric=stars)](https://www.vipm.io/package/jki_lib_json_serialization/)
+
 *Do you have JKI JSON questions, ideas, or challenges you'd like discuss? Join the conversation happening in the [JKI JSON Community Discussion Forums](https://forums.jki.net/forum/67-jki-json/).*
 
 

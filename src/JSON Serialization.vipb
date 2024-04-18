@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2016-06-19 12:30:21" Modified_Date="2024-04-17 17:29:13" Creator="Tomi Maila" Comments="" ID="6e309bc5d219a1b2c548085c1050e88c">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2016-06-19 12:30:21" Modified_Date="2024-04-17 21:47:48" Creator="Tomi Maila" Comments="" ID="f07feefc4ea56ffa4291288f52beb102">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_json_serialization</Package_File_Name>
-    <Library_Version>2.0.0.39</Library_Version>
+    <Library_Version>2.0.1.39</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -17,10 +17,11 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
+      <External_Dependencies>jki_lib_serialization &gt;= 1.0.1.14</External_Dependencies>
       <External_Dependencies>jki_lib_unicode &gt;= 1.0.0.7</External_Dependencies>
       <External_Dependencies>oglib_error &gt;= 4.2.0.23</External_Dependencies>
       <External_Dependencies>oglib_lvdata &gt;= 4.2.0.21</External_Dependencies>
-      <Additional_External_Dependencies>jki_lib_serialization &gt;=1.0.1.14</Additional_External_Dependencies>
+      <Direct_Dependencies>jki_lib_serialization-1.0.1.14</Direct_Dependencies>
       <Direct_Dependencies>jki_lib_unicode-1.0.0.7</Direct_Dependencies>
       <Direct_Dependencies>oglib_error-4.2.0.23</Direct_Dependencies>
       <Direct_Dependencies>oglib_lvdata-4.2.0.21</Direct_Dependencies>
@@ -38,9 +39,13 @@
       <One_Line_Description_Summary>JSON serialization and deserialization library for LabVIEW</One_Line_Description_Summary>
       <Description>JKI JSON is a serialization and deserialization library for serializing LabVIEW data into JSON strings and deserializing JSON strings into LabVIEW data.</Description>
       <Copyright/>
-      <Packager>Tomi Maila</Packager>
+      <Packager>JKI</Packager>
       <URL>http://jki.net/tools</URL>
-      <Release_Notes>- Upgraded sources to LabVIEW 2020
+      <Release_Notes>[2.0.1]
+- Fix:  Empty multidimensional arrays are incorrectly serialized #37 
+
+[2.0.0]
+- Upgraded sources to LabVIEW 2020
 - Fix: Incorrect indentation when treating cluster as an ordered array #31
 - Fix:  Deserializing an Array of Cluster of Multi-Dimensional Arrays unnecessarily wraps Inner Array Elements in variants #30 
 - Fix: Deserializing an Array of Cluster of Clusters unnecessarily wraps Inner Clusters in variants #29 
@@ -310,7 +315,7 @@
         <Path>Constants and Comparison</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A8E5C5BDB3048F7D8B3EB9B9FCD4F0F0</GUID>
+      <GUID>E36B32FCE27D3CC496F989B710055918</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -499,7 +504,7 @@
         <Path>Serializer\JSON Serializer\Write Indent String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>90D207CB92E1B5447974067119A21AA1</GUID>
+      <GUID>B3099FB00E9CEFFF67706C2C23016550</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -576,7 +581,7 @@
         <Path>Deserializer\JSON Deserializer\Write Nulls as Defaults.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4EDCEC29A27CF62B227607CD593AB1C6</GUID>
+      <GUID>E6B61F6FE0800C3F2F79D0A0CD415E3C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -681,7 +686,7 @@
         <Path>Library\Is Empty Array.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DCFD51DDEF723847D0621EFBC5B3CE67</GUID>
+      <GUID>E3120AD70C655D583BD15668B68449AF</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

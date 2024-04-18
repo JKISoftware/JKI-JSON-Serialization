@@ -9,4 +9,4 @@ vipc = "JSON Serialization.vipc"
 [vipm.dependencies]
 oglib_lvdata = "4.2.0.21"
 oglib_time = "4.0.1.3"
-jki_lib_caraya = "0.4.1.22"
+jki_lib_caraya = "1.4.3.147"

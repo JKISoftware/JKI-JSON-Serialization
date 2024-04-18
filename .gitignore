@@ -1,5 +1,9 @@
 .hg/
 .hgignore
+
 *.vip
 *.aliases
 *.lvlps
+
+# temp build folder of package builder
+.src/

@@ -1,0 +1,12 @@
+[project]
+labview-version = 2013
+vipc = "JSON Serialization.vipc"
+
+[nipm]
+
+[vipm]
+
+[vipm.dependencies]
+oglib_lvdata = "4.2.0.21"
+oglib_time = "4.0.1.3"
+jki_lib_caraya = "0.4.1.22"

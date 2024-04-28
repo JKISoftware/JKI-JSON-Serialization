@@ -1,0 +1,3 @@
+[submodule "src/OpenG-Variant-Data-Library"]
+	path = src/OpenG-Variant-Data-Library
+	url = https://github.com/vipm-io/OpenG-Variant-Data-Library.git

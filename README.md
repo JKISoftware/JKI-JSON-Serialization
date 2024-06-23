@@ -83,7 +83,7 @@ _Clusters_: JSON clusters and arrays can be unflattened to LabVIEW clusters.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-To contribute to JKI JSON, you will need 32-bit LabVIEW 2013 f2 professional development environment.
+To contribute to JKI JSON, you will need 32-bit LabVIEW 2020 development environment.
 
 ## Credits
 

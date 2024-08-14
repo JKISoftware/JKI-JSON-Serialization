@@ -35,8 +35,7 @@
 				<Item Name="Test Deserialize Timestamps.vi" Type="VI" URL="../../test/Test Deserialize Timestamps.vi"/>
 				<Item Name="Test Deserialize Null.vi" Type="VI" URL="../../test/Test Deserialize Null.vi"/>
 				<Item Name="Test Deserialize Null To Defaults.vi" Type="VI" URL="../../test/Test Deserialize Null To Defaults.vi"/>
-				<Item Name="Test Deserialize.vi" Type="VI" URL="../../test/Test Deserialize.vi"/>
-				<Item Name="Test Source Path in Error Source.vi" Type="VI" URL="../../test/Test Source Path in Error Source.vi"/>
+				<Item Name="Test Deserialize Source Path.vi" Type="VI" URL="../../test/Test Deserialize Source Path.vi"/>
 			</Item>
 			<Item Name="Serialization" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">3</Property>
@@ -56,7 +55,6 @@
 				<Item Name="Test Serialize Strings.vi" Type="VI" URL="../../test/Test Serialize Strings.vi"/>
 				<Item Name="Test Serialize Enum.vi" Type="VI" URL="../../test/Test Serialize Enum.vi"/>
 				<Item Name="Test Serialize Variants.vi" Type="VI" URL="../../test/Test Serialize Variants.vi"/>
-				<Item Name="Test Serialize.vi" Type="VI" URL="../../test/Test Serialize.vi"/>
 				<Item Name="Test Serialize Paths.vi" Type="VI" URL="../../test/Test Serialize Paths.vi"/>
 			</Item>
 			<Item Name="RoundTrip" Type="Folder">
@@ -73,7 +71,6 @@
 				<Item Name="Test GitHub Issue 29 - Deserialize Array of Cluster of Cluster Wraps Elements in Variants.vi" Type="VI" URL="../../test/Test GitHub Issue 29 - Deserialize Array of Cluster of Cluster Wraps Elements in Variants.vi"/>
 				<Item Name="Test GitHub Issue 30 - Deserialize Array of Cluster of Multi-Dimensional Array Wraps Inner Elements in Variants.vi" Type="VI" URL="../../test/Test GitHub Issue 30 - Deserialize Array of Cluster of Multi-Dimensional Array Wraps Inner Elements in Variants.vi"/>
 			</Item>
-			<Item Name="Test JSON Serialization.vi" Type="VI" URL="../../test/Test JSON Serialization.vi"/>
 			<Item Name="Performance Test.vi" Type="VI" URL="../../test/Performance Test.vi"/>
 		</Item>
 		<Item Name="Examples" Type="Folder">
@@ -240,7 +237,6 @@
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="Qualified Name Array To Single String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Qualified Name Array To Single String.vi"/>
 			</Item>
-			<Item Name="Test Parse ISO 8601 Timestamps.vi" Type="VI" URL="../../test/Test Parse ISO 8601 Timestamps.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

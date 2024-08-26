@@ -12,8 +12,8 @@ on:
 jobs:
 
   ci-vipc:
-    uses: vipm-io/OpenG-Tookit/.github/workflows/ci-container.yml@main
+    uses: vipm-io/OpenG-Tookit/.github/workflows/ci-container.yml@dev
     secrets: inherit
     with:
       labview-version: 2024
-
+      labview-bitness: 64

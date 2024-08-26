@@ -14,3 +14,6 @@ jobs:
   ci-vipc:
     uses: vipm-io/OpenG-Tookit/.github/workflows/ci-container.yml@main
     secrets: inherit
+    with:
+      labview-version: 2024
+

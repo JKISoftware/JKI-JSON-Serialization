@@ -4,13 +4,13 @@ on:
   push:
     branches:
       - main
-      - ci-github-actions
-    paths: |
-      ./**/*.vipc
+      # - ci-github-actions
+    # paths: |
+    #   ./**/*.vipc
   workflow_dispatch:
 
 jobs:
 
   ci-vipc:
     uses: vipm-io/OpenG-Tookit/.github/workflows/ci-container.yml@main
-    secrets: inherit
+    # secrets: inherit

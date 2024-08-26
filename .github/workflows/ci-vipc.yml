@@ -17,3 +17,7 @@ jobs:
     with:
       labview-version: 2024
       labview-bitness: 64
+      # vipc_timeout_ms: 600
+      source_vipc: src/JSON Serialization.vipc
+      
+      

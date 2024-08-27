@@ -13,7 +13,7 @@ ENV GITHUB_REPOSITORY=${GITHUB_REPOSITORY}
 
 # note that files after the first COPY are optional, which is nice (since might not have a dev.vipc)
 # also note that dockerfile doesn't do whitespace characters, which is why we have a * in the COPY command
-COPY 'src/JSON Serialization.vipc' ./source.vipc
+COPY "src/JSON Serialization.vipc" ./source.vipc
 
 # the script below will apply VIPC files, if they are found.
 RUN if [ -f dev.vipc ] || [ -f source.vipc ]; then \

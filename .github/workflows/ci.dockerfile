@@ -25,8 +25,8 @@ RUN if [ -f dev.vipc ] || [ -f source.vipc ]; then \
         dragon refresh --vipm && \
         if [ -f source.vipc ]; then \
             echo "Applying VIPC (Library Deps)..." && \
-            echo "dragon vipm apply-vipc --labview-version ${LABVIEW_VERSION} --labview-bitness ${LABVIEW_BITNESS} --timeout ${VIPC_TIMEOUT} ./source.vipc" && \
-            dragon vipm apply-vipc --labview-version ${LABVIEW_VERSION} --labview-bitness ${LABVIEW_BITNESS} --timeout ${VIPC_TIMEOUT} ./source.vipc && \
+            echo "dragon vipm apply-vipc --labview-version 2024 --labview-bitness ${LABVIEW_BITNESS} --timeout ${VIPC_TIMEOUT} ./source.vipc" && \
+            dragon vipm apply-vipc --labview-version 2024 --labview-bitness ${LABVIEW_BITNESS} --timeout ${VIPC_TIMEOUT} ./source.vipc && \
             rm source.vipc; \
         fi; \
     fi

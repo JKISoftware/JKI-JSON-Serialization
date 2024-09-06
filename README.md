@@ -2,8 +2,7 @@
 
 *Do you have JKI JSON questions, ideas, or challenges you'd like discuss? Join the conversation happening in the [JKI JSON Community Discussion Forums](https://forums.jki.net/forum/67-jki-json/).*
 
-
-![JKI JSON](https://github.com/JKISoftware/JKI-JSON-Serialization/raw/master/img/json.png)
+![JKI JSON](img/json.png)
 # JKI JSON
 
 JKI JSON is a library for flattening LabVIEW data to JSON strings and for unflattening JSON strings back to LabVIEW data.
@@ -27,18 +26,18 @@ To use unit JKI JSON, you need to drop the corresponding JKI JSON toolkit
 VIs to the block diagrams. The JKI JSON toolkit VIs are located under the JKI Tools functions
 palette menu.
 
-![Functions palette](https://github.com/JKISoftware/JKI-JSON-Serialization/raw/master/img/JSON-Palette.png "Functions palette")
+![Functions palette](img/JSON-Palette.png "Functions palette")
 
 ### Basic Workflow
 The toolkit provides a VI for flattening LabVIEW data to JSON strings and another VI for unflattening
 JSON strings back to LabVIEW data. The basic workflow is presented in the image below.
 
-![Basic workflow](https://github.com/JKISoftware/JKI-JSON-Serialization/raw/master/img/Flatten-Unflatten-JSON-String.png "Basic workflow")
+![Basic workflow](img/Flatten-Unflatten-JSON-String.png "Basic workflow")
 
 ### Flatten to JSON String
 Flatten to JSON String VI is used to flatten a LabVIEW data to a JSON string.
 
-![Flatten to JSON String](https://github.com/JKISoftware/JKI-JSON-Serialization/raw/master/img/Flatten-To-JSON-String.png "Flatten to JSON String")
+![Flatten to JSON String](img/Flatten-To-JSON-String.png "Flatten to JSON String")
 
 The VI provides multiple arguments for defining how to flatten the LabVIEW data to JSON string.
 
@@ -55,7 +54,7 @@ The VI provides multiple arguments for defining how to flatten the LabVIEW data 
 ### Unflatten from JSON String
 Unflatten from JSON String VI is used to unflatten JSON string to LabVIEW data.
 
-![Unflatten from JSON String](https://github.com/JKISoftware/JKI-JSON-Serialization/raw/master/img/Unflatten-From-JSON-String.png "Unflatten from JSON String")
+![Unflatten from JSON String](img/Unflatten-From-JSON-String.png "Unflatten from JSON String")
 
 The VI provides few arguments for defining how to flatten the LabVIEW data to JSON string.
 
